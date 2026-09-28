@@ -22,6 +22,7 @@ To build and develop the kernel, you'll need the following resources available:
 * LLVM tools, version **13 or later** (including Clang, LLD, LLVM, etc.)
 * Swift tools, version **6.3 or later** (or `main-snapshot` from
   [swiftly](https://www.swift.org/install/))
+* A **recent** version of the [Just](https://just.systems/) command runner
 
 > [!NOTE]
 > It's probably also best that you use QEMU to virtualize/emulate your compiled kernels, since they
