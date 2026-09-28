@@ -1,0 +1,6 @@
+.cache/
+CMakeFiles/
+build/
+.DS_Store
+.asm-lsp.toml
+cmake_install.cmake
