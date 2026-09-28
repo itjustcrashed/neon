@@ -26,9 +26,9 @@ To build and develop the kernel, you'll need the following resources available:
 > [!NOTE]
 > It's probably also best that you use QEMU to virtualize/emulate your compiled kernels, since they
 > can't be ran in user-space.
-> > [!TIP]
-> > Use Hypervisor.framework on macOS or KVM on Linux to _drastically speed up your virtual machine
-> > if you're targeting the same CPU architecture as your host.
+>
+> Use Hypervisor.framework on macOS or KVM on Linux to _drastically speed up your virtual machine
+> if you're targeting the same CPU architecture as your host.
 
 ### Editors
 
